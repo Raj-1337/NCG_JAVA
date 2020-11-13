@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PerfectNumer {
+public class PerfectNumber {
 
     public static boolean isPerfectNumber(int num) {
         if (num < 1) {
